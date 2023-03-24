@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-geocoder": "^4.2.0",
+    "satelize": "^0.2.0",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1"
+  }
+}
